@@ -66,6 +66,6 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is an assistant professor of Health Economics in the Faculty of Health Sciences, Ontario Tech University. His research interests include mental health services research, population mental health, and primary health care delivery. 
+David Rudoler is an assistant professor of Health Economics in the Faculty of Health Sciences, Ontario Tech University. His research interests include mental health services research, population mental health, and primary health care delivery. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
